@@ -6,6 +6,13 @@
 ~~~
 [アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！](https://satori.marketing/marketing-blog/what-is-marketing/ad-network/ "アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！")
 
+#### Amazon Athena(アテナ)
+~~~
+S3に保存・蓄積したログに対してSQLクエリを投げて分析を行えるサービスです。
+分析基盤を整えたり分析サービスにログを転送したりする必要が無いため、簡単に利用できる。
+~~~
+[Amazon Athenaではじめるログ分析入門](https://qiita.com/miyasakura_/items/174dc73f706e8951dbdd "Amazon Athenaではじめるログ分析入門")
+
 #### Amazon EC2
 ~~~
 Amazon Elastic Compute Cloud.
@@ -25,6 +32,20 @@ Dockerコンテナに対応しており、Amazon EC2インスタンスの
 ~~~
 [スケーラブルで高速なコンテナ管理サービス「Amazon ECS」の主な機能と使い方](https://business.ntt-east.co.jp/content/cloudsolution/column-25.html#:~:text=Amazon%20ECS%EF%BC%88Amazon%20Elastic%20Container,%E6%8B%A1%E5%BC%B5%E6%80%A7%E3%81%A8%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AB "スケーラブルで高速なコンテナ管理サービス「Amazon ECS」の主な機能と使い方")
 
+#### AWS Step Functions
+~~~
+ビジュアルワークフローを使用してソフトウェアやシステムを調整するサービスのことです。
+それぞれが別々のシステムであってもAWS Step Functionsを用いることで、
+簡単にアプリケーションを接続し、調整ができるようになります。
+~~~
+[AWS Step Functionsとは？状態(State)の用語解説](https://www.acrovision.jp/service/aws/?p=803 "AWS Step Functionsとは？状態(State)の用語解説")
+
+#### AWS Lambda(ラムダ)
+~~~
+サーバレスコンピューティングとアプリケーション。
+~~~
+[AWS初心者 入門編「Lambda」ってなにがスゴイんですか？](https://www.bit-drive.ne.jp/managed-cloud/column/column_14.html "AWS初心者 入門編「Lambda」ってなにがスゴイんですか？")
+
 #### CCI
 ~~~
 サイバー･コミュニケーションズ。
@@ -40,6 +61,12 @@ Criteoとは、リターゲティング型の動的ディスプレイ広告の�
 CVに直結しやすいといわれる。
 ~~~
 [Criteo(クリテオ)とは? ゼロから分かりやすく解説!](https://wacul-ai.com/blog/internet-ad/display-ad/what-is-criteo/ "Criteo(クリテオ)とは? ゼロから分かりやすく解説!")
+
+#### CRUD(クラッド)
+~~~
+「Create（生成）」「Read（読み取り）」「Update（更新）」「Delete（削除）」
+~~~
+[CRUD](https://wa3.i-3-i.info/word123.html "CRUD")
 
 #### DMP
 ~~~
@@ -57,6 +84,14 @@ Demand-Side Platform。
 つまりDSPは、広告出稿の費用対効果を高めたい広告主のためのサービス。
 ~~~
 [【図解】いまさら聞けない「DSP」とは？～基礎知識編～](https://www.innovation.co.jp/urumo/dsp/ "【図解】いまさら聞けない「DSP」とは？～基礎知識編～")
+
+#### Elasticsearch
+~~~
+Elastic社が提供する「Lucene」ベースのオープンソース全文検索エンジンです。
+なお全文検索エンジンとは、大量にあるドキュメントデータの中から、
+目的のワードを含むドキュメントデータを検索するための仕組みです。
+~~~
+[全文検索エンジン「Elasticsearch」を調べて使ってみた色々まとめ](https://vitalify.jp/blog/2017/02/elasticsearch_matome.html "全文検索エンジン「Elasticsearch」を調べて使ってみた色々まとめ")
 
 #### Hadoop(ハドゥープ)
 ~~~
