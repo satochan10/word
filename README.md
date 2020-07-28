@@ -6,6 +6,31 @@
 ~~~
 [アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！](https://satori.marketing/marketing-blog/what-is-marketing/ad-network/ "アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！")
 
+#### Amazon EC2
+~~~
+Amazon Elastic Compute Cloud.
+Amazonが提供している仮想サーバー構築サービスです。
+EC2を利用することで、OSを乗せた仮想環境をクラウド上にすばやく作ることができる。
+~~~
+[AmazonのAWS EC2とは？はじめての人向けに解説](https://techplay.jp/column/537 "AmazonのAWS EC2とは？はじめての人向けに解説")
+
+#### Amazon ECS
+~~~
+Amazon Elastic Container Service.
+AWSのAmazon EC2インスタンスを用いて仮想サーバー構築によく用いられる
+Dockerコンテナを簡単に実行、停止、管理できる非常にスケーラブルで高速な管理サービスです。
+
+Dockerコンテナに対応しており、Amazon EC2インスタンスの
+マネージドクラスターでアプリケーションを簡単に実行することができます。
+~~~
+[スケーラブルで高速なコンテナ管理サービス「Amazon ECS」の主な機能と使い方](https://business.ntt-east.co.jp/content/cloudsolution/column-25.html#:~:text=Amazon%20ECS%EF%BC%88Amazon%20Elastic%20Container,%E6%8B%A1%E5%BC%B5%E6%80%A7%E3%81%A8%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AB "スケーラブルで高速なコンテナ管理サービス「Amazon ECS」の主な機能と使い方")
+
+#### CCI
+~~~
+サイバー･コミュニケーションズ。
+~~~
+[CCI](https://www.cci.co.jp/company/detail/ "CCI")
+
 #### Criteo(クリテオ)
 ~~~
 Criteoとは、リターゲティング型の動的ディスプレイ広告のサービスです。
