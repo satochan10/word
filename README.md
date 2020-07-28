@@ -6,6 +6,16 @@
 ~~~
 [アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！](https://satori.marketing/marketing-blog/what-is-marketing/ad-network/ "アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！")
 
+#### Criteo(クリテオ)
+~~~
+Criteoとは、リターゲティング型の動的ディスプレイ広告のサービスです。
+
+一度サイトを訪れたユーザーに対して、そのユーザーが見ていた商品やおすすめの商品を
+バナーと共に表示します。広告のリンクは商品詳細ページに直結しており、
+CVに直結しやすいといわれる。
+~~~
+[Criteo(クリテオ)とは? ゼロから分かりやすく解説!](https://wacul-ai.com/blog/internet-ad/display-ad/what-is-criteo/ "Criteo(クリテオ)とは? ゼロから分かりやすく解説!")
+
 #### DMP
 ~~~
 Data Management Platform.
