@@ -16,7 +16,7 @@ Hadoopは処理を行うために並列で用意されたコンピュータを�
 [Hadoop(ハドゥープ)とは？](https://www.gixo.jp/blog/12430/ "Hadoop(ハドゥープ)とは？")
 
 #### 共起ネットワーク
-<img width="733" alt="スクリーンショット 2020-07-28 15 08 34" src="https://user-images.githubusercontent.com/28005895/88625709-43647780-d0e4-11ea-9ba7-6c2ef48da4da.png" width=30%>
+<img width="50%" alt="スクリーンショット 2020-07-28 15 08 34" src="https://user-images.githubusercontent.com/28005895/88625709-43647780-d0e4-11ea-9ba7-6c2ef48da4da.png">
 
 ~~~
 一つ一つの文書で出現する単語「抽出語」のうち、「距離」が近いか遠いかを計算し、図示したもの。
