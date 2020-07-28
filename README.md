@@ -1,9 +1,27 @@
+#### ADNW
+~~~
+アドネットワーク(Ad Network)。
+複数の広告媒体（Webサイトやソーシャルメディア、ブログ等）を集めて広告配信ネットワークを作り、
+それらの媒体に広告をまとめて配信する仕組み。
+~~~
+[アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！](https://satori.marketing/marketing-blog/what-is-marketing/ad-network/ "アドネットワークとは？DSPとの違いって？初心者にも分かる入門編！")
+
 #### DMP
 ~~~
 Data Management Platform.
 インターネット上に蓄積された様々な情報データを管理するためのプラットフォーム
 ~~~
 [いまさら聞けない「DMP」とは？～基礎知識編～](https://www.innovation.co.jp/urumo/dmp/ "いまさら聞けない「DMP」とは？～基礎知識編～")
+
+#### DSP
+<img width="50%" alt="スクリーンショット 2020-07-28 15 25 30" src="https://user-images.githubusercontent.com/28005895/88627016-9b9c7900-d0e6-11ea-91d6-1421abc30cf5.png">
+
+~~~
+Demand-Side Platform。
+広告主(広告配信を希望している側)のプラットフォームです。
+つまりDSPは、広告出稿の費用対効果を高めたい広告主のためのサービス。
+~~~
+[【図解】いまさら聞けない「DSP」とは？～基礎知識編～](https://www.innovation.co.jp/urumo/dsp/ "【図解】いまさら聞けない「DSP」とは？～基礎知識編～")
 
 #### Hadoop(ハドゥープ)
 ~~~
@@ -14,6 +32,13 @@ Hadoopは処理を行うために並列で用意されたコンピュータを�
 を行い、各コンピュータで処理された結果を回収しひとつにまとめます。
 ~~~
 [Hadoop(ハドゥープ)とは？](https://www.gixo.jp/blog/12430/ "Hadoop(ハドゥープ)とは？")
+
+#### SSP
+~~~
+Supply Side Platform。
+メディア(広告枠を提供している側)のプラットフォームです。
+広告枠をなるべく高く買ってもらいたい媒体社(メディア)のためのサービス。
+~~~
 
 #### 共起ネットワーク
 <img width="50%" alt="スクリーンショット 2020-07-28 15 08 34" src="https://user-images.githubusercontent.com/28005895/88625709-43647780-d0e4-11ea-9ba7-6c2ef48da4da.png">
