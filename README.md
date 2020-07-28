@@ -52,6 +52,15 @@ Dockerコンテナに対応しており、Amazon EC2インスタンスの
 ~~~
 [CCI](https://www.cci.co.jp/company/detail/ "CCI")
 
+#### CPA
+~~~
+Cost Per Action/Cost Per Acquisition.
+コンバージョン（CV）1件あたりにかかった広告費用を示す値。
+
+CPA＝広告費用÷コンバージョン数
+~~~
+[CPAとは？CPAを考える際の注意点と重要性について](https://www.seohacks.net/basic/terms/cpa/ "CPAとは？CPAを考える際の注意点と重要性について")
+
 #### Criteo(クリテオ)
 ~~~
 Criteoとは、リターゲティング型の動的ディスプレイ広告のサービスです。
@@ -103,12 +112,46 @@ Hadoopは処理を行うために並列で用意されたコンピュータを�
 ~~~
 [Hadoop(ハドゥープ)とは？](https://www.gixo.jp/blog/12430/ "Hadoop(ハドゥープ)とは？")
 
+#### nend
+[nend](https://nend.net/mediapartner/features/ "nend")
+
+#### ROAS
+~~~
+Return On Advertising Spend.売上高。
+広告費に対してどれだけの売上をあげることができたのか。
+ROASが良くてもROIが悪ければ、広告費に対して利益は生まれていない。
+
+売上÷広告費×100(％)
+~~~
+[ROIとROASって何が違うの？広告運用の成果を測る重要な指標について](https://digitalidentity.co.jp/blog/ad/difference-roi-roas.html "ROIとROASって何が違うの？広告運用の成果を測る重要な指標について")
+
+#### ROI
+~~~
+Return On Investment.利益額。
+日本語では「投資収益率」や「投資利益率」とも呼ばれ、その投資でどれだけ利益を上げたのかを知ることのできる指標。
+
+売上ー売上原価ー投資額）÷ 投資額×100（%）
+~~~
+[ROIの意味は？計算式まで理解して投資効果を正しく見極めよう！](https://www.innovation.co.jp/urumo/roi/ "ROIの意味は？計算式まで理解して投資効果を正しく見極めよう！")
+
 #### SSP
 ~~~
 Supply Side Platform。
 メディア(広告枠を提供している側)のプラットフォームです。
 広告枠をなるべく高く買ってもらいたい媒体社(メディア)のためのサービス。
 ~~~
+
+#### インプレッション数
+~~~
+広告が表示された回数。
+~~~
+
+#### オーガニックユーザー
+~~~
+自然検索ユーザー。
+有料検索広告や有料登録のスポンサー広告ではなく、SEOなどの自然検索結果によりサイトに流入するユーザー。
+~~~
+[オーガニックユーザー（自然検索ユーザー）](https://zero-s.jp/labo/?page_id=7889#:~:text=%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%88%E8%87%AA%E7%84%B6%E6%A4%9C%E7%B4%A2%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%89%E3%81%A8%E3%81%AF%E3%80%81%E6%9C%89%E6%96%99%E6%A4%9C%E7%B4%A2,%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E3%80%82 "オーガニックユーザー（自然検索ユーザー）")
 
 #### データウェアハウス
 ~~~
@@ -140,6 +183,11 @@ DWH。過去データ（履歴データ）を整理して保管しておくデ�
 そのままの形式で貯めておけるのが利点。
 ~~~
 [データレイクとは？データレイクの落とし穴と効果](https://blogs.informatica.com/jp/2019/09/30/data-lake/ "データレイクとは？データレイクの落とし穴と効果")
+
+#### バジェットアロケーション
+~~~
+budget allocation.予算割り当て。予算配分。
+~~~
 
 #### 共起ネットワーク
 <img width="50%" alt="スクリーンショット 2020-07-28 15 08 34" src="https://user-images.githubusercontent.com/28005895/88625709-43647780-d0e4-11ea-9ba7-6c2ef48da4da.png">
