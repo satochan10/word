@@ -32,6 +32,30 @@ Dockerコンテナに対応しており、Amazon EC2インスタンスの
 ~~~
 [スケーラブルで高速なコンテナ管理サービス「Amazon ECS」の主な機能と使い方](https://business.ntt-east.co.jp/content/cloudsolution/column-25.html#:~:text=Amazon%20ECS%EF%BC%88Amazon%20Elastic%20Container,%E6%8B%A1%E5%BC%B5%E6%80%A7%E3%81%A8%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AB "スケーラブルで高速なコンテナ管理サービス「Amazon ECS」の主な機能と使い方")
 
+#### ARPA
+~~~
+Average Revenue per Account.
+1アカウントあたりの平均売り上げ。
+売り上げ÷アカウント数。
+~~~
+[ARPUとは？ARPA、ARPPUなどとの違いを紹介](https://www.emotion-tech.co.jp/resource/2018/what_is_arpu "ARPUとは？ARPA、ARPPUなどとの違いを紹介")
+
+#### ARPPU
+~~~
+Average Revenue per Paid User.
+課金ユーザー一人あたりの平均課金額を示す。
+売り上げ÷課金ユーザー数。
+~~~
+[ARPUとは？ARPA、ARPPUなどとの違いを紹介](https://www.emotion-tech.co.jp/resource/2018/what_is_arpu "ARPUとは？ARPA、ARPPUなどとの違いを紹介")
+
+#### ARPU
+~~~
+Average Revenue Per User.
+1ユーザーあたりの平均的売り上げ。
+売り上げ÷ユーザー数。
+~~~
+[ARPUとは？ARPA、ARPPUなどとの違いを紹介](https://www.emotion-tech.co.jp/resource/2018/what_is_arpu "ARPUとは？ARPA、ARPPUなどとの違いを紹介")
+
 #### AWS Step Functions
 ~~~
 ビジュアルワークフローを使用してソフトウェアやシステムを調整するサービスのことです。
@@ -52,6 +76,14 @@ Dockerコンテナに対応しており、Amazon EC2インスタンスの
 ~~~
 [CCI](https://www.cci.co.jp/company/detail/ "CCI")
 
+#### CIDR(サイダー)
+~~~
+Classless Inter-Domain Routing.
+アドレスクラスの概念を気にしないことで、IPアドレスの割り当てや経路選択などの自由度を上げる仕組み。
+10.0.0.0/16
+~~~
+[CIDR](https://wa3.i-3-i.info/word11989.html "CIDR")
+
 #### CPA
 ~~~
 Cost Per Action/Cost Per Acquisition.
@@ -60,6 +92,25 @@ Cost Per Action/Cost Per Acquisition.
 CPA＝広告費用÷コンバージョン数
 ~~~
 [CPAとは？CPAを考える際の注意点と重要性について](https://www.seohacks.net/basic/terms/cpa/ "CPAとは？CPAを考える際の注意点と重要性について")
+
+#### CPC
+~~~
+Cost Per Click.
+Webサイトの広告を1回クリックするごとに発生する広告掲載料金。
+クリック保証型広告。
+広告費÷その広告で獲得したクリック数。
+~~~
+[CPCとは？今さら聞けないCPCの仕組みと広告の費用対効果を上げるコツ](https://udemy.benesse.co.jp/marketing/howto/what-is-cpc.html "CPCとは？今さら聞けないCPCの仕組みと広告の費用対効果を上げるコツ")
+
+#### CPM
+~~~
+Cost per Mille.
+インプレッション単価。広告表示にかかる費用。
+広告費÷インプレッション数×1000。
+出稿している広告のクリック率（クリック回数÷表示回数）が0.1を下回っている場合はCPM、
+0.1を上回っていればCPCを指標にして費用対効果の改善を図るのが良い。
+~~~
+[CPCとは？今さら聞けないCPCの仕組みと広告の費用対効果を上げるコツ](https://udemy.benesse.co.jp/marketing/howto/what-is-cpc.html "CPCとは？今さら聞けないCPCの仕組みと広告の費用対効果を上げるコツ")
 
 #### Criteo(クリテオ)
 ~~~
@@ -76,6 +127,14 @@ CVに直結しやすいといわれる。
 「Create（生成）」「Read（読み取り）」「Update（更新）」「Delete（削除）」
 ~~~
 [CRUD](https://wa3.i-3-i.info/word123.html "CRUD")
+
+#### CVR
+~~~
+Conversion Rate.
+CV率。コンバージョン（商品の購入や申込み）を達成した割合を表す指標。
+CV数÷サイト訪問数×100。
+~~~
+[CVR（CV率）とは？ 平均は何%？低い場合の要因、改善方法を解説！](https://service.plan-b.co.jp/blog/marketing/17199/ "CVR（CV率）とは？ 平均は何%？低い場合の要因、改善方法を解説！")
 
 #### DMP
 ~~~
@@ -101,6 +160,14 @@ Elastic社が提供する「Lucene」ベースのオープンソース全文検�
 目的のワードを含むドキュメントデータを検索するための仕組みです。
 ~~~
 [全文検索エンジン「Elasticsearch」を調べて使ってみた色々まとめ](https://vitalify.jp/blog/2017/02/elasticsearch_matome.html "全文検索エンジン「Elasticsearch」を調べて使ってみた色々まとめ")
+
+#### HAクラスター
+~~~
+High Availability.高可用性。
+稼働系と待機系でサーバーを2台用意し、稼働系システムに障害が発生した際に
+動的に待機系システムに切り替える仕組み。LifeKeeper。
+~~~
+[クラウド環境での高可用性の仕組み](https://sios.jp/products/lkdk/ha-cluster/cloud.html "クラウド環境での高可用性の仕組み")
 
 #### Hadoop(ハドゥープ)
 ~~~
@@ -153,6 +220,12 @@ Supply Side Platform。
 ~~~
 [オーガニックユーザー（自然検索ユーザー）](https://zero-s.jp/labo/?page_id=7889#:~:text=%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%88%E8%87%AA%E7%84%B6%E6%A4%9C%E7%B4%A2%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%89%E3%81%A8%E3%81%AF%E3%80%81%E6%9C%89%E6%96%99%E6%A4%9C%E7%B4%A2,%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E3%80%82 "オーガニックユーザー（自然検索ユーザー）")
 
+#### グロースハック
+~~~
+開発の面で工夫をして、商品・サービスの改善をモニタリングしながらその商品・サービスを成長させること。
+~~~
+[最近流行りのグロースハックって何？](https://dentsu-ho.com/articles/2453 "最近流行りのグロースハックって何？")
+
 #### データウェアハウス
 ~~~
 DWH。過去データ（履歴データ）を整理して保管しておくデータベース。
@@ -183,6 +256,12 @@ DWH。過去データ（履歴データ）を整理して保管しておくデ�
 そのままの形式で貯めておけるのが利点。
 ~~~
 [データレイクとは？データレイクの落とし穴と効果](https://blogs.informatica.com/jp/2019/09/30/data-lake/ "データレイクとは？データレイクの落とし穴と効果")
+
+#### ファネル分析
+~~~
+商品購入や会員登録など、アプリ内でユーザーにしてほしいアクションに至るまでのプロセスの離脱率を把握し、どこで多くのユーザーが離脱しているかを確認する分析手法。
+~~~
+[ファネル分析とは？ アプリのコンバージョンを最適化する方法を解説](https://repro.io/contents/funnel-analysis/#:~:text=%E3%83%95%E3%82%A1%E3%83%8D%E3%83%AB%E5%88%86%E6%9E%90%E3%81%A8%E3%81%AF%E3%80%81%E5%95%86%E5%93%81,%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95%E3%81%A7%E3%81%99%E3%80%82 "ファネル分析とは？ アプリのコンバージョンを最適化する方法を解説")
 
 #### バジェットアロケーション
 ~~~
