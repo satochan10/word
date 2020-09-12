@@ -208,6 +208,12 @@ Supply Side Platform。
 広告枠をなるべく高く買ってもらいたい媒体社(メディア)のためのサービス。
 ~~~
 
+#### VPS
+~~~
+Virtual Private Server。仮想専用サーバー。
+~~~
+[VPSとは？レンタルサーバーと何が違う？分かりやすく解説](https://www.kagoya.jp/howto/rentalserver/basic-02/ "VPSとは？レンタルサーバーと何が違う？分かりやすく解説")
+
 #### インプレッション数
 ~~~
 広告が表示された回数。
